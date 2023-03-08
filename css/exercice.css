@@ -80,6 +80,17 @@
 }
 
 /* 9. exercice-9 */
+.exercice-9 .container-small {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+.element .exercice-9 .container-small {
+  max-width: 50%;
+  box-sizing: border-box;
+}
 
 /* 10. exercice-10 */
 
