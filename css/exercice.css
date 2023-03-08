@@ -112,6 +112,11 @@
   max-width: 50%;
 }
 
+.exercice-9 .container-small .element-yellow,
+.exercice-9 .container-small .element-red {
+  flex-grow: 1;
+}
+
 /* 10. exercice-10 */
 .exercice-10 .container-big {
   display: flex;
